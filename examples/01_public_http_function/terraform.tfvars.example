@@ -1,0 +1,2 @@
+resource_group_name = "fk-function-public-rg"
+location            = "westeurope"
