@@ -2,7 +2,7 @@
 
 This repository contains a reusable Terraform / OpenTofu module and progressive examples for deploying code-first, ZIP-deployed Azure Linux Function Apps.
 
-It is part of the [FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses-2/) and composes with FoggyKitchen modules for Storage, VNet, Managed Identity, RBAC, Key Vault, Log Analytics, and related Azure foundations.
+It is part of the [FoggyKitchen.com training ecosystem](https://foggykitchen.com/) and composes with FoggyKitchen modules for Storage, VNet, Managed Identity, RBAC, Key Vault, Log Analytics, and related Azure foundations.
 
 Support expectations are documented in [SUPPORT.md](SUPPORT.md).
 
